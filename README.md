@@ -30,6 +30,13 @@ really interesting patterns worth exploring!
 - **Tableau Public** — for building an interactive dashboard
 - **Kaggle Notebooks** — as my main working environment
 
+## Skills Demonstrated
+- Data cleaning and preparation
+- Exploratory data analysis
+- Statistical pattern recognition
+- Data visualisation
+- Business recommendations from data insights
+  
 ## What I found
 A few things that really stood out to me:
 
